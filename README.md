@@ -1,2 +1,0 @@
-# Mabu
-Word sequence prediction
