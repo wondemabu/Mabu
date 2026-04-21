@@ -1,0 +1,6 @@
+flask
+tensorflow==3.14
+numpy
+gdown
+pickle-mixin
+gunicorn
